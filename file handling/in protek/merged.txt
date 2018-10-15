@@ -1,0 +1,6 @@
+file1
+abc
+file2
+def
+file3
+hig
